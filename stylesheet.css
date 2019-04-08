@@ -1,0 +1,122 @@
+div#calendar {
+    display: grid;
+    text-align: center;
+}
+
+div#login {
+    text-align: center;
+    background-color: burlywood;
+    padding: 5px;
+    width: 45%;
+    font-size: 25px;
+    font-family: cursive;
+    float: left;
+}
+
+div#register {
+    text-align: center;
+    background-color: burlywood;
+    padding: 5px;
+    width: 45%;
+    font-size: 25px;
+    font-family: cursive;
+    float: right;
+}
+
+div#welcome1 {
+    background-color: burlywood;
+    padding: 5px;
+    width: 100%;
+}
+
+h1#greeting {
+    font-size: 35px;
+    font-family: cursive;
+}
+
+p#word1 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    background-color: lightblue;
+}
+
+p#word2 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+div#tagBox {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+button#btn_prev {
+    padding:6px 24px;
+    float: left;
+    background-color:#a6590c;
+    color:#ffffff;
+    font-size:13px;
+    border-radius:3px;
+    border:1px solid #54381e;
+    -moz-border-radius:3px;
+    display:inline-block;
+    cursor:pointer;
+    -webkit-border-radius:3px;
+}
+
+button#btn_next {
+    padding:6px 24px;
+    float: right;
+    background-color:#a6590c;
+    color:#ffffff;
+    font-size:13px;
+    border-radius:3px;
+    border:1px solid #54381e;
+    -moz-border-radius:3px;
+    display:inline-block;
+    cursor:pointer;
+    -webkit-border-radius:3px;
+}
+
+p#word3 {
+    background-color: burlywood;
+    padding: 5px;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    word-break: break-all;
+}
+
+th {
+    height: 40px;
+    background-color: cadetblue;
+}
+
+td {
+    height: 80px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+td.date {
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+p.list {
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    background-color: lightblue;
+}
