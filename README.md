@@ -1,4 +1,3 @@
-# Module 5 Group Proj
 ### [Homepage](http://ec2-13-58-92-76.us-east-2.compute.amazonaws.com/~weichen/Module5/index.php)
 
 * If you are a user, then the table cells are clickable to allow you adding events. 
